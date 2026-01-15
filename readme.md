@@ -21,13 +21,13 @@ Senior Full Stack Developer with 10+ years of experience building and maintainin
 
 **2018 - Present**  
 **Senior Developer**  
-*Future Prime / Inbox Agency / Notícias ao Minuto*
+*Future Prime / Inbox Agency / Notícias ao Minuto / Stars Insider*
 
-- Development and maintenance of high-traffic media platforms serving millions of monthly users
-- Design and implementation of RESTful APIs using Laravel and PHP
-- Frontend development using Vue.js and modern JavaScript tooling
-- Performance optimization through caching strategies (Redis)
-- Collaboration with product, design, and editorial teams to deliver scalable solutions
+- Lead development and maintenance of APIs, frontend, and CMS for one of Portugal's largest news platforms
+- Architected and led complete platform rewrite from legacy codebase, modernizing tech stack and improving maintainability
+- Architected and implemented RESTful APIs using Laravel for high-traffic content delivery
+- Optimized platform performance through Redis caching strategies and Brotli compression
+- Collaborated with cross-functional teams (product, design, editorial) to deliver features while maintaining system reliability
 
 **2016 - 2018**  
 **Technical Director**  
