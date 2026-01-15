@@ -1,7 +1,7 @@
 # Bruno Pinto
 **Senior Full Stack Developer**
 
-[Download PDF Version](resume.pdf)
+[Download PDF Version](/raw/main/resume.pdf)
 
 ---
 
