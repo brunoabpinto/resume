@@ -30,6 +30,7 @@ Senior Full Stack Developer with 10+ years of experience building and maintainin
 - Architected and implemented RESTful APIs using Laravel for high-traffic content delivery
 - Optimized platform performance through Redis caching strategies and Brotli compression
 - Collaborated with cross-functional teams (product, design, editorial) to deliver features while maintaining system reliability
+---
 
 **2016 - 2018**  
 **Technical Director**  
@@ -38,6 +39,7 @@ Senior Full Stack Developer with 10+ years of experience building and maintainin
 - Led technical strategy and architecture decisions across multiple web projects
 - Managed development workflows and code quality standards
 - Oversaw infrastructure, deployments, and system administration
+---
 
 **2015 - 2016**  
 **Full Stack Web Developer / System Administrator**  
@@ -47,6 +49,7 @@ Senior Full Stack Developer with 10+ years of experience building and maintainin
 - Server administration and maintenance on Linux environments
 - Database design and optimization using MySQL
 - Deployment and monitoring of production systems
+---
 
 **March 2013 - June 2013**  
 **Intern**  
@@ -54,7 +57,6 @@ Senior Full Stack Developer with 10+ years of experience building and maintainin
 
 - Developed Bash, Perl, and Python scripts to analyze thousands of Word documents and identify usage patterns of tables, images, and other features
 - Designed custom icons for a Linux-based school laptop distribution
-
 ---
 
 ## Technical Skills
