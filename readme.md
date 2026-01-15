@@ -68,3 +68,10 @@ Senior Full Stack Developer with 10+ years of experience building and maintainin
 
 
 Laravel, PHP, JavaScript, CSS, Livewire, Nuxt, Inertia, Vue, MySQL, MongoDB, Redis, Elasticsearch, Docker, Linux (Ubuntu, CentOS), NGINX, Apache, DNS Configuration, Node.js, Python
+
+## Notable Projects
+
+**phpvm** - PHP Version Manager  
+[github.com/brunoabpinto/phpvm](https://github.com/brunoabpinto/phpvm)
+
+Open-source PHP version manager inspired by nvm, enabling seamless switching between PHP versions for local development. Built with Bash scripting and used daily in personal workflow.
