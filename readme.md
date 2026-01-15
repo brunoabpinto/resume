@@ -3,6 +3,14 @@
 
 ---
 
+## Contact
+
+- **Email:** brunoabpinto@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/bruno-pinto-774279123/
+
+
+---
+
 ## Professional Summary
 
 Senior Full Stack Developer with 10+ years of experience building and maintaining scalable web applications and high-traffic digital platforms. Strong background in Laravel and Vue.js, with proven experience leading technical teams and delivering reliable, performance-focused solutions.
@@ -56,10 +64,3 @@ Senior Full Stack Developer with 10+ years of experience building and maintainin
 
 
 Laravel, PHP, JavaScript, CSS, Livewire, Nuxt, Inertia, Vue, MySQL, MongoDB, Redis, Elasticsearch, Docker, Linux (Ubuntu, CentOS), NGINX, Apache, DNS Configuration, Node.js, Python
-
----
-
-## Contact
-
-- **Email:** brunoabpinto@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/bruno-pinto-774279123/
