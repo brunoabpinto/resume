@@ -27,6 +27,7 @@ Senior Full Stack Developer with 10+ years of experience building and maintainin
 
 - Lead development and maintenance of APIs, frontend, and CMS for one of Portugal's largest news platforms
 - Architected and led complete platform rewrite from legacy codebase, modernizing tech stack and improving maintainability
+- Created reusable Laravel package to standardize authentication across company projects, improving development velocity
 - Architected and implemented RESTful APIs using Laravel for high-traffic content delivery
 - Optimized platform performance through Redis caching strategies and Brotli compression
 - Collaborated with cross-functional teams (product, design, editorial) to deliver features while maintaining system reliability
