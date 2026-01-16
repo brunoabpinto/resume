@@ -78,7 +78,7 @@ Laravel, PHP, JavaScript, CSS, Livewire, Nuxt, Inertia, Vue, MySQL, MongoDB, Red
 Open-source PHP version manager inspired by nvm, enabling seamless switching between PHP versions for local development. Built with Bash scripting and used daily in personal workflow.
 
 
-**magic** - Laravel inline text editor
+**magic** - Laravel inline text editor  
 [github.com/brunoabpinto/magic](https://github.com/brunoabpinto/magic)
 
 Inline text editor for Laravel applications, built with Livewire 4. Allows users to edit text fields directly in the browser, with database persistence and caching support.
