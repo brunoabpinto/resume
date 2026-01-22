@@ -77,6 +77,11 @@ Laravel, PHP, JavaScript, CSS, Livewire, Nuxt, Inertia, Vue, MySQL, MongoDB, Red
 
 Open-source PHP version manager inspired by nvm, enabling seamless switching between PHP versions for local development. Built with Bash scripting and used daily in personal workflow.
 
+**csrf-refresh** - CSRF Refresh for Laravel
+[github.com/brunoabpinto/csrf-refresh](https://github.com/brunoabpinto/csrf-refresh)
+
+Automatically refresh CSRF tokens for Laravel applications shortly before they expire for a more seamless user experience.
+
 
 **magic** - Laravel inline text editor  
 [github.com/brunoabpinto/magic](https://github.com/brunoabpinto/magic)
