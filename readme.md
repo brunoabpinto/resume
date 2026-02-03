@@ -78,6 +78,11 @@ Laravel, PHP, JavaScript, CSS, Livewire, Nuxt, Inertia, Vue, MySQL, MongoDB, Red
 
 ## Notable Projects
 
+**Vector** - Vue Reactivity in Blade Templates
+[github.com/brunoabpinto/vector](https://github.com/brunoabpinto/vector)
+
+Laravel package that brings Vue reactivity to Blade templates using a familiar <script setup> syntax. Enables developers to use Vue Composition API features (ref, reactive, computed, watch) directly in Blade without full SPA complexity. Seamlessly integrates Vue's reactivity system with server-side rendered templates.
+
 **phpvm** - PHP Version Manager  
 [github.com/brunoabpinto/phpvm](https://github.com/brunoabpinto/phpvm)
 
