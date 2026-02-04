@@ -69,16 +69,11 @@ _Caixa Mágica_
 
 ## Technical Skills
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-EF2D26?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-Laravel, PHP, JavaScript, CSS, Livewire, Nuxt, Inertia, Vue, MySQL, MongoDB, Redis, Elasticsearch, Docker, Linux (Ubuntu, CentOS), NGINX, Apache, DNS Configuration, Node.js, Python
+Laravel, PHP, JavaScript, CSS, Livewire, Nuxt, Inertia, Vue, MySQL, Redis, Docker, Linux, Node.js, Python
 
 ## Notable Projects
 
-**Vector** - Vue Reactivity in Blade Templates
+**Vector** - Vue Reactivity in Blade Templates  
 [github.com/brunoabpinto/vector](https://github.com/brunoabpinto/vector)
 
 Laravel package that brings Vue reactivity to Blade templates using a familiar <script setup> syntax. Enables developers to use Vue Composition API features (ref, reactive, computed, watch) directly in Blade without full SPA complexity. Seamlessly integrates Vue's reactivity system with server-side rendered templates.
