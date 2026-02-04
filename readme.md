@@ -12,7 +12,7 @@
 
 - **Email:** brunoabpinto@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/bruno-pinto-774279123/
-- **Blog:** https://placeholderblog.netlify.app/
+- **Blog:** https://brunopinto.dev/
 
 ---
 
